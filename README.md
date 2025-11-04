@@ -17,6 +17,9 @@ Temperature Converter
 
 # Features
 Basic Calculator
+
 Extra Modes
+
 Interface Options
+
 Help
